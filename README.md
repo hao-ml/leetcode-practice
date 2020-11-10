@@ -11,6 +11,7 @@
 |0054|Spiral Matrix|Medium|Array|
 |0061|Rotate List|Medium|Linked List|
 |0066|Plus One|Easy|Array|
+|0067|Add Binary|Easy|Math, String|
 |0070|Climbing Stairs|Easy|Dynamic Programming|
 |0088|Merge Sorted Array|Easy|Array|
 |0094|Binary Tree Inorder Traversal|Medium|Tree|
