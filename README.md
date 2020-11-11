@@ -8,6 +8,7 @@
 |0021|Merge Two Sorted Lists|Easy|Linked List|
 |0026|Remove Duplicates from Sorted Array|Easy|Array|
 |0027|Remove Element|Easy|Array|
+|0028|Implement strStr()|Easy|Two Pointers, String|
 |0054|Spiral Matrix|Medium|Array|
 |0061|Rotate List|Medium|Linked List|
 |0066|Plus One|Easy|Array|
