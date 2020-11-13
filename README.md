@@ -32,6 +32,7 @@
 |0142|Linked List Cycle II|Medium|Linked List, Two Pointers|
 |0144|Binary Tree Preorder Traversal|Medium|Stack, Tree|
 |0145|Binary Tree Postorder Traversal|Medium|Stack, Tree|
+|0167|Two Sum II - Input array is sorted|Easy|Array, Two Pointers, Binary Search|
 |0344|Reverse String|Easy|Two Pointers, String|
 |0498|Diagonal Traverse|Medium|Array|
 |0561|Array Partition I|Easy|Array|
