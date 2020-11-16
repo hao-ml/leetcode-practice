@@ -26,6 +26,7 @@
 |0116|Populating Next Right Pointers in Each Node|Medium|Tree, DFS, BFS|
 |0117|Populating Next Right Pointers in Each Node II|Medium|Tree, DFS|
 |0118|Pascal's Triangle|Easy|Array|
+|0119|Pascal's Triangle II|Easy|Array|
 |0122|Best Time to Buy and Sell Stock II|Easy|Array, Greedy|
 |0138|Copy List with Random Pointer|Medium|Hash Table, Linked List|
 |0141|Linked List Cycle|Easy|Linked List, Two Pointers|
