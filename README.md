@@ -41,3 +41,4 @@
 |0498|Diagonal Traverse|Medium|Array|
 |0557|Reverse Words in a String III|Easy|String|
 |0561|Array Partition I|Easy|Array|
+|0622|Design Circular Queue|Medium|Design, Queue|
