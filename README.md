@@ -36,9 +36,11 @@
 |0151|Reverse Words in a String|Medium|String|
 |0167|Two Sum II - Input array is sorted|Easy|Array, Two Pointers, Binary Search|
 |0189|Rotate Array|Medium|Array|
+|0200|Number of Islands|Medium|DFS, BFS, Union Find|
 |0209|Minimum Size Subarray Sum|Medium|Array, Two Pointers, Binary Search|
 |0344|Reverse String|Easy|Two Pointers, String|
 |0498|Diagonal Traverse|Medium|Array|
 |0557|Reverse Words in a String III|Easy|String|
 |0561|Array Partition I|Easy|Array|
 |0622|Design Circular Queue|Medium|Design, Queue|
+|0752|Open the Lock|Medium|BFS|
