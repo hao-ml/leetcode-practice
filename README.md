@@ -38,6 +38,7 @@
 |0189|Rotate Array|Medium|Array|
 |0200|Number of Islands|Medium|DFS, BFS, Union Find|
 |0209|Minimum Size Subarray Sum|Medium|Array, Two Pointers, Binary Search|
+|0279|Perfect Squares|Medium|Math, Dynamic Programming, BFS|
 |0344|Reverse String|Easy|Two Pointers, String|
 |0498|Diagonal Traverse|Medium|Array|
 |0557|Reverse Words in a String III|Easy|String|
