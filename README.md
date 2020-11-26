@@ -5,6 +5,7 @@
 |0002|Add Two Numbers|Medium|Linked List, Math|
 |0014|Longest Common Prefix|Easy|String|
 |0019|Remove Nth Node From End of List|Medium|Linked List, Two Pointers|
+|0020|Valid Parentheses|Easy|String, Stack|
 |0021|Merge Two Sorted Lists|Easy|Linked List|
 |0026|Remove Duplicates from Sorted Array|Easy|Array, Two Pointers|
 |0027|Remove Element|Easy|Array, Two Pointers|
@@ -45,4 +46,5 @@
 |0557|Reverse Words in a String III|Easy|String|
 |0561|Array Partition I|Easy|Array|
 |0622|Design Circular Queue|Medium|Design, Queue|
+|0739|Daily Temperatures|Medium|Hash Table, Stack|
 |0752|Open the Lock|Medium|BFS|
