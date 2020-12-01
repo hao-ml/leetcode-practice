@@ -34,6 +34,7 @@
 |0142|Linked List Cycle II|Medium|Linked List, Two Pointers|
 |0144|Binary Tree Preorder Traversal|Medium|Stack, Tree|
 |0145|Binary Tree Postorder Traversal|Medium|Stack, Tree|
+|0150|Evaluate Reverse Polish Notation|Medium|Stack|
 |0151|Reverse Words in a String|Medium|String|
 |0155|Min Stack|Easy|Stack, Design|
 |0167|Two Sum II - Input array is sorted|Easy|Array, Two Pointers, Binary Search|
