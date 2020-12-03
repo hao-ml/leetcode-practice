@@ -29,6 +29,7 @@
 |0118|Pascal's Triangle|Easy|Array|
 |0119|Pascal's Triangle II|Easy|Array|
 |0122|Best Time to Buy and Sell Stock II|Easy|Array, Greedy|
+|0133|Clone Graph|Medium|DFS, BFS, Graph|
 |0138|Copy List with Random Pointer|Medium|Hash Table, Linked List|
 |0141|Linked List Cycle|Easy|Linked List, Two Pointers|
 |0142|Linked List Cycle II|Medium|Linked List, Two Pointers|
@@ -43,6 +44,7 @@
 |0209|Minimum Size Subarray Sum|Medium|Array, Two Pointers, Binary Search|
 |0279|Perfect Squares|Medium|Math, Dynamic Programming, BFS|
 |0344|Reverse String|Easy|Two Pointers, String|
+|0494|Target Sum|Medium|Dynamic Programming, DFS|
 |0498|Diagonal Traverse|Medium|Array|
 |0557|Reverse Words in a String III|Easy|String|
 |0561|Array Partition I|Easy|Array|
