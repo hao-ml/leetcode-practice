@@ -42,6 +42,8 @@
 |0189|Rotate Array|Medium|Array|
 |0200|Number of Islands|Medium|DFS, BFS, Union Find|
 |0209|Minimum Size Subarray Sum|Medium|Array, Two Pointers, Binary Search|
+|0225|Implement Stack using Queues|Easy|Stack, Design|
+|0232|Implement Queue using Stacks|Easy|Stack, Design|
 |0279|Perfect Squares|Medium|Math, Dynamic Programming, BFS|
 |0344|Reverse String|Easy|Two Pointers, String|
 |0494|Target Sum|Medium|Dynamic Programming, DFS|
