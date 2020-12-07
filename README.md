@@ -38,20 +38,45 @@
 |0150|Evaluate Reverse Polish Notation|Medium|Stack|
 |0151|Reverse Words in a String|Medium|String|
 |0155|Min Stack|Easy|Stack, Design|
+|0160|Intersection of Two Linked Lists|Easy|Linked List|
 |0167|Two Sum II - Input array is sorted|Easy|Array, Two Pointers, Binary Search|
 |0189|Rotate Array|Medium|Array|
 |0200|Number of Islands|Medium|DFS, BFS, Union Find|
+|0203|Remove Linked List Elements|Easy|Linked List|
+|0206|Reverse Linked List|Easy|Linked List|
 |0209|Minimum Size Subarray Sum|Medium|Array, Two Pointers, Binary Search|
 |0225|Implement Stack using Queues|Easy|Stack, Design|
+|0226|Invert Binary Tree|Easy|Tree|
 |0232|Implement Queue using Stacks|Easy|Stack, Design|
+|0234|Palindrome Linked List|Easy|Linked List, Two Pointers|
+|0236|Lowest Common Ancestor of a Binary Tree|Medium|Tree|
 |0279|Perfect Squares|Medium|Math, Dynamic Programming, BFS|
+|0283|Move Zeroes|Easy|Array, Two Pointers|
+|0297|Serialize and Deserialize Binary Tree|Hard|Tree, Design|
+|0328|Odd Even Linked List|Medium|Linked List|
 |0344|Reverse String|Easy|Two Pointers, String|
+|0350|Intersection of Two Arrays II|Easy|Hash Table, Two Pointers, Binary Search, Sort|
 |0394|Decode String|Medium|Stack, DFS|
+|0414|Third Maximum Number|Easy|Array|
+|0430|Flatten a Multilevel Doubly Linked List|Medium|Linked List, DFS|
+|0448|Find All Numbers Disappeared in an Array|Easy|Array|
+|0485|Max Consecutive Ones|Easy|Array|
 |0494|Target Sum|Medium|Dynamic Programming, DFS|
 |0498|Diagonal Traverse|Medium|Array|
 |0557|Reverse Words in a String III|Easy|String|
 |0561|Array Partition I|Easy|Array|
 |0622|Design Circular Queue|Medium|Design, Queue|
+|0707|Design Linked List|Medium|Linked List, Design|
+|0724|Find Pivot Index|Easy|Array|
 |0733|Flood Fill|Easy|DFS|
 |0739|Daily Temperatures|Medium|Hash Table, Stack|
+|0747|Largest Number At Least Twice of Others|Easy|Array|
 |0752|Open the Lock|Medium|BFS|
+|0905|Sort Array By Parity|Easy|Array|
+|0941|Valid Mountain Array|Easy|Array|
+|0977|Squares of a Sorted Array|Easy|Array, Two Pointers|
+|1051|Height Checker|Easy|Array|
+|1089|Duplicate Zeros|Easy|Array|
+|1295|Find Numbers with Even Number of Digits|Easy|Array|
+|1299|Replace Elements with Greatest Element on Right Side|Easy|Array|
+|1346|Check If N and Its Double Exist|Easy|Array|
