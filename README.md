@@ -46,10 +46,12 @@
 |0232|Implement Queue using Stacks|Easy|Stack, Design|
 |0279|Perfect Squares|Medium|Math, Dynamic Programming, BFS|
 |0344|Reverse String|Easy|Two Pointers, String|
+|0394|Decode String|Medium|Stack, DFS|
 |0494|Target Sum|Medium|Dynamic Programming, DFS|
 |0498|Diagonal Traverse|Medium|Array|
 |0557|Reverse Words in a String III|Easy|String|
 |0561|Array Partition I|Easy|Array|
 |0622|Design Circular Queue|Medium|Design, Queue|
+|0733|Flood Fill|Easy|DFS|
 |0739|Daily Temperatures|Medium|Hash Table, Stack|
 |0752|Open the Lock|Medium|BFS|
