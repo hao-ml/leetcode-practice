@@ -73,6 +73,7 @@
 |0739|Daily Temperatures|Medium|Hash Table, Stack|
 |0747|Largest Number At Least Twice of Others|Easy|Array|
 |0752|Open the Lock|Medium|BFS|
+|0841|Keys and Rooms|Medium|DFS, Graph|
 |0905|Sort Array By Parity|Easy|Array|
 |0941|Valid Mountain Array|Easy|Array|
 |0977|Squares of a Sorted Array|Easy|Array, Two Pointers|
