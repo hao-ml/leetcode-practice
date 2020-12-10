@@ -68,6 +68,7 @@
 |0557|Reverse Words in a String III|Easy|String|
 |0561|Array Partition I|Easy|Array|
 |0622|Design Circular Queue|Medium|Design, Queue|
+|0700|Search in a Binary Search Tree|Easy|Tree|
 |0707|Design Linked List|Medium|Linked List, Design|
 |0724|Find Pivot Index|Easy|Array|
 |0733|Flood Fill|Easy|DFS|
