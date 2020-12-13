@@ -3,18 +3,23 @@ using namespace std;
 
 // Time Limit Exceeded
 // 31 / 45 test cases passed.
+// --> memorization --> AC
 class Solution {
 public:
     int climbStairs(int n) {
-        
-        if (n == 1) {
-            return 1;
+        unordered_map<int, int> cache;
+        return helper(n, cache);
+    }
+private:
+    int helper(int n, unordered_map<int, int> &cache) {
+        if (n < 3) return n;
+        int ans;
+        if (cache.count(n)) ans = cache[n];
+        else {
+            ans = helper(n - 1, cache) + helper(n - 2, cache);
+            cache[n] = ans;
         }
-        else if (n == 2) {
-            return 2;
-        }
-
-        return climbStairs(n - 1) + climbStairs(n - 2);
+        return ans;
     }
 };
 

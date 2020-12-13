@@ -64,6 +64,7 @@
 |0485|Max Consecutive Ones|Easy|Array|
 |0494|Target Sum|Medium|Dynamic Programming, DFS|
 |0498|Diagonal Traverse|Medium|Array|
+|0509|Fibonacci Number|Easy|Array|
 |0542|01 Matrix|Medium|DFS, BFS|
 |0557|Reverse Words in a String III|Easy|String|
 |0561|Array Partition I|Easy|Array|
