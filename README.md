@@ -19,6 +19,7 @@
 |0070|Climbing Stairs|Easy|Dynamic Programming|
 |0088|Merge Sorted Array|Easy|Array, Two Pointers|
 |0094|Binary Tree Inorder Traversal|Medium|Hash Table, Stack, Tree|
+|0095|Unique Binary Search Trees II|Medium|Dynamic Programming, Tree|
 |0100|Same Tree|Easy|Tree, DFS|
 |0101|Symmetric Tree|Easy|Tree, DFS, BFS|
 |0102|Binary Tree Level Order Traversal|Medium|Tree, BFS|
