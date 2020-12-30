@@ -20,6 +20,7 @@
 |0088|Merge Sorted Array|Easy|Array, Two Pointers|
 |0094|Binary Tree Inorder Traversal|Medium|Hash Table, Stack, Tree|
 |0095|Unique Binary Search Trees II|Medium|Dynamic Programming, Tree|
+|0098|Validate Binary Search Tree|Medium|Tree, DFS, Recursion|
 |0100|Same Tree|Easy|Tree, DFS|
 |0101|Symmetric Tree|Easy|Tree, DFS, BFS|
 |0102|Binary Tree Level Order Traversal|Medium|Tree, BFS|
@@ -80,6 +81,7 @@
 |0752|Open the Lock|Medium|BFS|
 |0841|Keys and Rooms|Medium|DFS, Graph|
 |0905|Sort Array By Parity|Easy|Array|
+|0912|Sort an Array|Medium|Array, Sort|
 |0941|Valid Mountain Array|Easy|Array|
 |0977|Squares of a Sorted Array|Easy|Array, Two Pointers|
 |1051|Height Checker|Easy|Array|
