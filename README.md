@@ -54,6 +54,7 @@
 |0232|Implement Queue using Stacks|Easy|Stack, Design|
 |0234|Palindrome Linked List|Easy|Linked List, Two Pointers|
 |0236|Lowest Common Ancestor of a Binary Tree|Medium|Tree|
+|0240|Search a 2D Matrix II|Medium|Binary Search, D&C|
 |0279|Perfect Squares|Medium|Math, Dynamic Programming, BFS|
 |0283|Move Zeroes|Easy|Array, Two Pointers|
 |0297|Serialize and Deserialize Binary Tree|Hard|Tree, Design|
