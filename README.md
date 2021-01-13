@@ -12,6 +12,7 @@
 |0027|Remove Element|Easy|Array, Two Pointers|
 |0028|Implement strStr()|Easy|Two Pointers, String|
 |0050|Pow(x, n)|Medium|Math, Binary Search|
+|0052|N-Queens II|Hard|Backtracking|
 |0054|Spiral Matrix|Medium|Array|
 |0061|Rotate List|Medium|Linked List, Two Pointers|
 |0066|Plus One|Easy|Array|
