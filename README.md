@@ -11,6 +11,7 @@
 |0026|Remove Duplicates from Sorted Array|Easy|Array, Two Pointers|
 |0027|Remove Element|Easy|Array, Two Pointers|
 |0028|Implement strStr()|Easy|Two Pointers, String|
+|0037|Sudoku Solver|Hard|Hash Table, Backtracking|
 |0050|Pow(x, n)|Medium|Math, Binary Search|
 |0052|N-Queens II|Hard|Backtracking|
 |0054|Spiral Matrix|Medium|Array|
@@ -18,6 +19,7 @@
 |0066|Plus One|Easy|Array|
 |0067|Add Binary|Easy|Math, String|
 |0070|Climbing Stairs|Easy|Dynamic Programming|
+|0077|Combinations|Medium|Backtracking|
 |0088|Merge Sorted Array|Easy|Array, Two Pointers|
 |0094|Binary Tree Inorder Traversal|Medium|Hash Table, Stack, Tree|
 |0095|Unique Binary Search Trees II|Medium|Dynamic Programming, Tree|
