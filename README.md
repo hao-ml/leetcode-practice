@@ -7,6 +7,7 @@
 |0019|Remove Nth Node From End of List|Medium|Linked List, Two Pointers|
 |0020|Valid Parentheses|Easy|String, Stack|
 |0021|Merge Two Sorted Lists|Easy|Linked List|
+|0022|Generate Parentheses|Medium|String, Backtracking|
 |0024|Swap Nodes in Pairs|Medium|Linked List|
 |0026|Remove Duplicates from Sorted Array|Easy|Array, Two Pointers|
 |0027|Remove Element|Easy|Array, Two Pointers|
