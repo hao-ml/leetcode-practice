@@ -94,3 +94,4 @@
 |1295|Find Numbers with Even Number of Digits|Easy|Array|C++|
 |1299|Replace Elements with Greatest Element on Right Side|Easy|Array|C++|
 |1346|Check If N and Its Double Exist|Easy|Array|C++|
+|2235|Add Two Integers|Easy|Math|Python|
