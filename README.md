@@ -94,4 +94,6 @@
 |1295|Find Numbers with Even Number of Digits|Easy|Array|C++|
 |1299|Replace Elements with Greatest Element on Right Side|Easy|Array|C++|
 |1346|Check If N and Its Double Exist|Easy|Array|C++|
+|1480|Running Sum of 1d Array|Easy|Array, Prefix Sum|Python|
 |2235|Add Two Integers|Easy|Math|Python|
+|2236|Root Equals Sum of Children|Easy|Tree, Binary Tree|Python|
