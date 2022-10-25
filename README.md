@@ -66,6 +66,7 @@
 |0344|Reverse String|Easy|Two Pointers, String|C++|
 |0350|Intersection of Two Arrays II|Easy|Hash Table, Two Pointers, Binary Search, Sort|C++|
 |0394|Decode String|Medium|Stack, DFS|C++|
+|0412|Fizz Buzz|Easy|Math, String, Simulation|Python|
 |0414|Third Maximum Number|Easy|Array|C++|
 |0430|Flatten a Multilevel Doubly Linked List|Medium|Linked List, DFS|C++|
 |0448|Find All Numbers Disappeared in an Array|Easy|Array|C++|
@@ -95,5 +96,6 @@
 |1299|Replace Elements with Greatest Element on Right Side|Easy|Array|C++|
 |1346|Check If N and Its Double Exist|Easy|Array|C++|
 |1480|Running Sum of 1d Array|Easy|Array, Prefix Sum|Python|
+|1672|Richest Customer Wealth|Easy|Array, Matrix|Python|
 |2235|Add Two Integers|Easy|Math|Python|
 |2236|Root Equals Sum of Children|Easy|Tree, Binary Tree|Python|
