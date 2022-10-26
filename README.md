@@ -65,6 +65,7 @@
 |0328|Odd Even Linked List|Medium|Linked List|C++|
 |0344|Reverse String|Easy|Two Pointers, String|C++|
 |0350|Intersection of Two Arrays II|Easy|Hash Table, Two Pointers, Binary Search, Sort|C++|
+|0383|Ransom Note|Easy|Hash Table, String, Counting|Python|
 |0394|Decode String|Medium|Stack, DFS|C++|
 |0412|Fizz Buzz|Easy|Math, String, Simulation|Python|
 |0414|Third Maximum Number|Easy|Array|C++|
@@ -86,6 +87,7 @@
 |0747|Largest Number At Least Twice of Others|Easy|Array|C++|
 |0752|Open the Lock|Medium|BFS|C++|
 |0841|Keys and Rooms|Medium|DFS, Graph|C++|
+|0876|Middle of the Linked List|Easy|Linked List, Two Pointers|Python|
 |0905|Sort Array By Parity|Easy|Array|C++|
 |0912|Sort an Array|Medium|Array, Sort|C++|
 |0941|Valid Mountain Array|Easy|Array|C++|
@@ -94,6 +96,7 @@
 |1089|Duplicate Zeros|Easy|Array|C++|
 |1295|Find Numbers with Even Number of Digits|Easy|Array|C++|
 |1299|Replace Elements with Greatest Element on Right Side|Easy|Array|C++|
+|1342|Number of Steps to Reduce a Number to Zero|Easy|Math, Bit Manipulation|Python|
 |1346|Check If N and Its Double Exist|Easy|Array|C++|
 |1480|Running Sum of 1d Array|Easy|Array, Prefix Sum|Python|
 |1672|Richest Customer Wealth|Easy|Array, Matrix|Python|
