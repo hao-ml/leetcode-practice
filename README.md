@@ -91,10 +91,10 @@
 |0905|Sort Array By Parity|Easy|Array|C++|
 |0912|Sort an Array|Medium|Array, Sort|C++|
 |0941|Valid Mountain Array|Easy|Array|C++|
-|0977|Squares of a Sorted Array|Easy|Array, Two Pointers|C++|
+|0977|Squares of a Sorted Array|Easy|Array, Two Pointers|C++, Python|
 |1051|Height Checker|Easy|Array|C++|
 |1089|Duplicate Zeros|Easy|Array|C++|
-|1295|Find Numbers with Even Number of Digits|Easy|Array|C++|
+|1295|Find Numbers with Even Number of Digits|Easy|Array|C++, Python|
 |1299|Replace Elements with Greatest Element on Right Side|Easy|Array|C++|
 |1342|Number of Steps to Reduce a Number to Zero|Easy|Math, Bit Manipulation|Python|
 |1346|Check If N and Its Double Exist|Easy|Array|C++|
