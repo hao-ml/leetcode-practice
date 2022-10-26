@@ -71,7 +71,7 @@
 |0414|Third Maximum Number|Easy|Array|C++|
 |0430|Flatten a Multilevel Doubly Linked List|Medium|Linked List, DFS|C++|
 |0448|Find All Numbers Disappeared in an Array|Easy|Array|C++|
-|0485|Max Consecutive Ones|Easy|Array|C++|
+|0485|Max Consecutive Ones|Easy|Array|C++, Python|
 |0494|Target Sum|Medium|Dynamic Programming, DFS|C++|
 |0498|Diagonal Traverse|Medium|Array|C++|
 |0509|Fibonacci Number|Easy|Array|C++|
