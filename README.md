@@ -21,7 +21,7 @@
 |0067|Add Binary|Easy|Math, String|C++|
 |0070|Climbing Stairs|Easy|Dynamic Programming|C++|
 |0077|Combinations|Medium|Backtracking|C++|
-|0088|Merge Sorted Array|Easy|Array, Two Pointers|C++|
+|0088|Merge Sorted Array|Easy|Array, Two Pointers|C++, Python|
 |0094|Binary Tree Inorder Traversal|Medium|Hash Table, Stack, Tree|C++|
 |0095|Unique Binary Search Trees II|Medium|Dynamic Programming, Tree|C++|
 |0098|Validate Binary Search Tree|Medium|Tree, DFS, Recursion|C++|
@@ -93,7 +93,7 @@
 |0941|Valid Mountain Array|Easy|Array|C++|
 |0977|Squares of a Sorted Array|Easy|Array, Two Pointers|C++, Python|
 |1051|Height Checker|Easy|Array|C++|
-|1089|Duplicate Zeros|Easy|Array|C++|
+|1089|Duplicate Zeros|Easy|Array|C++, Python|
 |1295|Find Numbers with Even Number of Digits|Easy|Array|C++, Python|
 |1299|Replace Elements with Greatest Element on Right Side|Easy|Array|C++|
 |1342|Number of Steps to Reduce a Number to Zero|Easy|Math, Bit Manipulation|Python|
