@@ -9,8 +9,8 @@
 |0021|Merge Two Sorted Lists|Easy|Linked List|C++|
 |0022|Generate Parentheses|Medium|String, Backtracking|C++|
 |0024|Swap Nodes in Pairs|Medium|Linked List|C++|
-|0026|Remove Duplicates from Sorted Array|Easy|Array, Two Pointers|C++|
-|0027|Remove Element|Easy|Array, Two Pointers|C++|
+|0026|Remove Duplicates from Sorted Array|Easy|Array, Two Pointers|C++, Python|
+|0027|Remove Element|Easy|Array, Two Pointers|C++, Python|
 |0028|Implement strStr()|Easy|Two Pointers, String|C++|
 |0037|Sudoku Solver|Hard|Hash Table, Backtracking|C++|
 |0050|Pow(x, n)|Medium|Math, Binary Search|C++|
