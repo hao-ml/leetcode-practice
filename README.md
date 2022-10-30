@@ -97,7 +97,7 @@
 |1295|Find Numbers with Even Number of Digits|Easy|Array|C++, Python|
 |1299|Replace Elements with Greatest Element on Right Side|Easy|Array|C++|
 |1342|Number of Steps to Reduce a Number to Zero|Easy|Math, Bit Manipulation|Python|
-|1346|Check If N and Its Double Exist|Easy|Array|C++|
+|1346|Check If N and Its Double Exist|Easy|Array|C++, Python|
 |1480|Running Sum of 1d Array|Easy|Array, Prefix Sum|Python|
 |1672|Richest Customer Wealth|Easy|Array, Matrix|Python|
 |2235|Add Two Integers|Easy|Math|Python|
