@@ -90,7 +90,7 @@
 |0876|Middle of the Linked List|Easy|Linked List, Two Pointers|Python|
 |0905|Sort Array By Parity|Easy|Array|C++|
 |0912|Sort an Array|Medium|Array, Sort|C++|
-|0941|Valid Mountain Array|Easy|Array|C++|
+|0941|Valid Mountain Array|Easy|Array|C++, Python|
 |0977|Squares of a Sorted Array|Easy|Array, Two Pointers|C++, Python|
 |1051|Height Checker|Easy|Array|C++|
 |1089|Duplicate Zeros|Easy|Array|C++, Python|
