@@ -60,7 +60,7 @@
 |0236|Lowest Common Ancestor of a Binary Tree|Medium|Tree|C++|
 |0240|Search a 2D Matrix II|Medium|Binary Search, D&C|C++|
 |0279|Perfect Squares|Medium|Math, Dynamic Programming, BFS|C++|
-|0283|Move Zeroes|Easy|Array, Two Pointers|C++|
+|0283|Move Zeroes|Easy|Array, Two Pointers|C++, Python|
 |0297|Serialize and Deserialize Binary Tree|Hard|Tree, Design|C++|
 |0328|Odd Even Linked List|Medium|Linked List|C++|
 |0344|Reverse String|Easy|Two Pointers, String|C++|
@@ -88,7 +88,7 @@
 |0752|Open the Lock|Medium|BFS|C++|
 |0841|Keys and Rooms|Medium|DFS, Graph|C++|
 |0876|Middle of the Linked List|Easy|Linked List, Two Pointers|Python|
-|0905|Sort Array By Parity|Easy|Array|C++|
+|0905|Sort Array By Parity|Easy|Array|C++, Python|
 |0912|Sort an Array|Medium|Array, Sort|C++|
 |0941|Valid Mountain Array|Easy|Array|C++, Python|
 |0977|Squares of a Sorted Array|Easy|Array, Two Pointers|C++, Python|
