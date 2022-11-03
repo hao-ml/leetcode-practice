@@ -68,7 +68,7 @@
 |0383|Ransom Note|Easy|Hash Table, String, Counting|Python|
 |0394|Decode String|Medium|Stack, DFS|C++|
 |0412|Fizz Buzz|Easy|Math, String, Simulation|Python|
-|0414|Third Maximum Number|Easy|Array|C++|
+|0414|Third Maximum Number|Easy|Array|C++, Python|
 |0430|Flatten a Multilevel Doubly Linked List|Medium|Linked List, DFS|C++|
 |0448|Find All Numbers Disappeared in an Array|Easy|Array|C++|
 |0485|Max Consecutive Ones|Easy|Array|C++, Python|
@@ -92,7 +92,7 @@
 |0912|Sort an Array|Medium|Array, Sort|C++|
 |0941|Valid Mountain Array|Easy|Array|C++, Python|
 |0977|Squares of a Sorted Array|Easy|Array, Two Pointers|C++, Python|
-|1051|Height Checker|Easy|Array|C++|
+|1051|Height Checker|Easy|Array|C++, Python|
 |1089|Duplicate Zeros|Easy|Array|C++, Python|
 |1295|Find Numbers with Even Number of Digits|Easy|Array|C++, Python|
 |1299|Replace Elements with Greatest Element on Right Side|Easy|Array|C++, Python|
