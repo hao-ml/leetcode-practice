@@ -15,6 +15,7 @@
 |0037|Sudoku Solver|Hard|Hash Table, Backtracking|C++|
 |0050|Pow(x, n)|Medium|Math, Binary Search|C++|
 |0052|N-Queens II|Hard|Backtracking|C++|
+|0053|Maximum Subarray|Medium|Array, Divide and Conquer, Dynamic Programming|Python|
 |0054|Spiral Matrix|Medium|Array|C++|
 |0061|Rotate List|Medium|Linked List, Two Pointers|C++|
 |0066|Plus One|Easy|Array|C++|
@@ -53,6 +54,7 @@
 |0203|Remove Linked List Elements|Easy|Linked List|C++|
 |0206|Reverse Linked List|Easy|Linked List|C++|
 |0209|Minimum Size Subarray Sum|Medium|Array, Two Pointers, Binary Search|C++|
+|0217|Contains Duplicate|Easy|Array, Hash Table, Sorting|Python|
 |0225|Implement Stack using Queues|Easy|Stack, Design|C++|
 |0226|Invert Binary Tree|Easy|Tree|C++|
 |0232|Implement Queue using Stacks|Easy|Stack, Design|C++|
@@ -70,7 +72,7 @@
 |0412|Fizz Buzz|Easy|Math, String, Simulation|Python|
 |0414|Third Maximum Number|Easy|Array|C++, Python|
 |0430|Flatten a Multilevel Doubly Linked List|Medium|Linked List, DFS|C++|
-|0448|Find All Numbers Disappeared in an Array|Easy|Array|C++|
+|0448|Find All Numbers Disappeared in an Array|Easy|Array|C++, Python|
 |0485|Max Consecutive Ones|Easy|Array|C++, Python|
 |0494|Target Sum|Medium|Dynamic Programming, DFS|C++|
 |0498|Diagonal Traverse|Medium|Array|C++|
