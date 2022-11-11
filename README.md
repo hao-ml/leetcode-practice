@@ -81,6 +81,7 @@
 |0557|Reverse Words in a String III|Easy|String|C++|
 |0561|Array Partition I|Easy|Array|C++|
 |0586|Customer Placing the Largest Number of Orders|Easy|Database|SQL|
+|0607|Sales Person|Easy|Database|SQL|
 |0622|Design Circular Queue|Medium|Design, Queue|C++|
 |0700|Search in a Binary Search Tree|Easy|Tree|C++|
 |0707|Design Linked List|Medium|Linked List, Design|C++|
