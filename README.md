@@ -96,6 +96,7 @@
 |0912|Sort an Array|Medium|Array, Sort|C++|
 |0941|Valid Mountain Array|Easy|Array|C++, Python|
 |0977|Squares of a Sorted Array|Easy|Array, Two Pointers|C++, Python|
+|1050|Actors and Directors Who Cooperated At Least Three Times|Easy|Database|SQL|
 |1051|Height Checker|Easy|Array|C++, Python|
 |1089|Duplicate Zeros|Easy|Array|C++, Python|
 |1295|Find Numbers with Even Number of Digits|Easy|Array|C++, Python|
