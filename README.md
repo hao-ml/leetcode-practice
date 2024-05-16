@@ -22,6 +22,7 @@
 |0067|Add Binary|Easy|Math, String|C++|
 |0070|Climbing Stairs|Easy|Dynamic Programming|C++|
 |0077|Combinations|Medium|Backtracking|C++|
+|0080|Remove Duplicates from Sorted Array II|Medium|Array, Two Pointers|Python|
 |0088|Merge Sorted Array|Easy|Array, Two Pointers|C++, Python|
 |0094|Binary Tree Inorder Traversal|Medium|Hash Table, Stack, Tree|C++|
 |0095|Unique Binary Search Trees II|Medium|Dynamic Programming, Tree|C++|
@@ -49,6 +50,7 @@
 |0155|Min Stack|Easy|Stack, Design|C++|
 |0160|Intersection of Two Linked Lists|Easy|Linked List|C++|
 |0167|Two Sum II - Input array is sorted|Easy|Array, Two Pointers, Binary Search|C++|
+|0169|Majority Element|Easy|Array, Hash Table, Divide and Conquer, Sorting, Counting|Python|
 |0189|Rotate Array|Medium|Array|C++|
 |0200|Number of Islands|Medium|DFS, BFS, Union Find|C++|
 |0203|Remove Linked List Elements|Easy|Linked List|C++|
