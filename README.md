@@ -51,7 +51,7 @@
 |0160|Intersection of Two Linked Lists|Easy|Linked List|C++|
 |0167|Two Sum II - Input array is sorted|Easy|Array, Two Pointers, Binary Search|C++|
 |0169|Majority Element|Easy|Array, Hash Table, Divide and Conquer, Sorting, Counting|Python|
-|0189|Rotate Array|Medium|Array|C++|
+|0189|Rotate Array|Medium|Array|C++, Python|
 |0200|Number of Islands|Medium|DFS, BFS, Union Find|C++|
 |0203|Remove Linked List Elements|Easy|Linked List|C++|
 |0206|Reverse Linked List|Easy|Linked List|C++|
