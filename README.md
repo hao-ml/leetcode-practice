@@ -38,7 +38,8 @@
 |0117|Populating Next Right Pointers in Each Node II|Medium|Tree, DFS|C++|
 |0118|Pascal's Triangle|Easy|Array|C++|
 |0119|Pascal's Triangle II|Easy|Array|C++|
-|0122|Best Time to Buy and Sell Stock II|Easy|Array, Greedy|C++|
+|0121|Best Time to Buy and Sell Stock|Easy|Array, Dynamic Programming|Python|
+|0122|Best Time to Buy and Sell Stock II|Medium|Array, Greedy|C++|
 |0133|Clone Graph|Medium|DFS, BFS, Graph|C++|
 |0138|Copy List with Random Pointer|Medium|Hash Table, Linked List|C++|
 |0141|Linked List Cycle|Easy|Linked List, Two Pointers|C++|
