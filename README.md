@@ -111,3 +111,4 @@
 |1672|Richest Customer Wealth|Easy|Array, Matrix|Python|
 |2235|Add Two Integers|Easy|Math|Python|
 |2236|Root Equals Sum of Children|Easy|Tree, Binary Tree|Python|
+|2405|Optimal Partition of String|Medium|Hash Table, String, Greedy|Python|
