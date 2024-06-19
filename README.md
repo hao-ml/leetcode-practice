@@ -36,7 +36,7 @@
 |0112|Path Sum|Easy|Tree, DFS|C++|
 |0116|Populating Next Right Pointers in Each Node|Medium|Tree, DFS, BFS|C++|
 |0117|Populating Next Right Pointers in Each Node II|Medium|Tree, DFS|C++|
-|0118|Pascal's Triangle|Easy|Array|C++|
+|0118|Pascal's Triangle|Easy|Array|C++, Python|
 |0119|Pascal's Triangle II|Easy|Array|C++|
 |0121|Best Time to Buy and Sell Stock|Easy|Array, Dynamic Programming|Python|
 |0122|Best Time to Buy and Sell Stock II|Medium|Array, Greedy|C++, Python|
