@@ -89,7 +89,7 @@
 |0700|Search in a Binary Search Tree|Easy|Tree|C++|
 |0707|Design Linked List|Medium|Linked List, Design|C++|
 |0724|Find Pivot Index|Easy|Array|C++|
-|0733|Flood Fill|Easy|DFS|C++|
+|0733|Flood Fill|Easy|DFS|C++, Python|
 |0739|Daily Temperatures|Medium|Hash Table, Stack|C++|
 |0747|Largest Number At Least Twice of Others|Easy|Array|C++|
 |0752|Open the Lock|Medium|BFS|C++|
