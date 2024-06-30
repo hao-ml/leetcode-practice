@@ -12,6 +12,7 @@
 |0026|Remove Duplicates from Sorted Array|Easy|Array, Two Pointers|C++, Python|
 |0027|Remove Element|Easy|Array, Two Pointers|C++, Python|
 |0028|Implement strStr()|Easy|Two Pointers, String|C++|
+|0034|Find First and Last Position of Element in Sorted Array|Medium|Array, Binary Search|Python|
 |0037|Sudoku Solver|Hard|Hash Table, Backtracking|C++|
 |0050|Pow(x, n)|Medium|Math, Binary Search|C++|
 |0052|N-Queens II|Hard|Backtracking|C++|
@@ -109,6 +110,7 @@
 |1480|Running Sum of 1d Array|Easy|Array, Prefix Sum|Python|
 |1492|The kth Factor of n|Medium|Math, Number Theory|Python|
 |1672|Richest Customer Wealth|Easy|Array, Matrix|Python|
+|1870|Minimum Speed to Arrive on Time|Medium|Array, Binary Search|Python|
 |2235|Add Two Integers|Easy|Math|Python|
 |2236|Root Equals Sum of Children|Easy|Tree, Binary Tree|Python|
 |2405|Optimal Partition of String|Medium|Hash Table, String, Greedy|Python|
